@@ -1,0 +1,46 @@
+D:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.exe.config
+D:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.exe
+D:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.pdb
+D:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.xml
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.vbprojAssemblyReference.cache
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.Form1.resources
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.Resources.resources
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.vbproj.GenerateResource.cache
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.vbproj.CoreCompileInputs.cache
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.exe
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.xml
+D:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.pdb
+E:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.exe.config
+E:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.exe
+E:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.pdb
+E:\Nueva carpeta (4)\InsertarDatos\bin\Debug\InsertarDatos.xml
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.vbprojAssemblyReference.cache
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.Form1.resources
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.Resources.resources
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.vbproj.GenerateResource.cache
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.exe
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.xml
+E:\Nueva carpeta (4)\InsertarDatos\obj\Debug\InsertarDatos.pdb
+C:\Users\krafd\Source\Repos\InsertarDatos\bin\Debug\InsertarDatos.exe.config
+C:\Users\krafd\Source\Repos\InsertarDatos\bin\Debug\InsertarDatos.exe
+C:\Users\krafd\Source\Repos\InsertarDatos\bin\Debug\InsertarDatos.pdb
+C:\Users\krafd\Source\Repos\InsertarDatos\bin\Debug\InsertarDatos.xml
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.vbprojAssemblyReference.cache
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.Form1.resources
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.Resources.resources
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.vbproj.GenerateResource.cache
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.exe
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.xml
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.pdb
+C:\Users\krafd\Source\Repos\InsertarDatos\obj\Debug\InsertarDatos.Form3.resources
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\bin\Debug\InsertarDatos.exe.config
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\bin\Debug\InsertarDatos.exe
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\bin\Debug\InsertarDatos.pdb
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\bin\Debug\InsertarDatos.xml
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.vbprojAssemblyReference.cache
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.Form1.resources
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.Resources.resources
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.vbproj.GenerateResource.cache
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.exe
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.xml
+C:\Users\RODRIGUEZ\source\repos\InsertarDatos\obj\Debug\InsertarDatos.pdb
